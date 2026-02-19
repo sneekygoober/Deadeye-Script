@@ -1,2 +1,6 @@
 # Deadeye-Script
-This is a script for https://www.roblox.com/games/93482986347670/Deadeye. Please note that your executor must have a high sUNC.
+This script is not open-source and free. You can also view this script over at [scriptblox.com](https://scriptblox.com/script/Deadeye-Script-Keyless-113700) or [haxhell.com](https://haxhell.com/scripts/deadeye-deadeye-script-keyless) or [rscripts.net](https://rscripts.net/script/deadeye-script-keyless-NdnQ).
+
+```lua
+loadstring(game:HttpGet("https://raw.githubusercontent.com/sneekygoober/Deadeye-Script/refs/heads/main/main.luau"))();
+```
